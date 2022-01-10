@@ -19,6 +19,9 @@ export default {
 .fas {
   color: red;
 }
+.fash {
+  color: red;
+}
 .task {
   background: #f4f4f4;
   margin: 5px;
